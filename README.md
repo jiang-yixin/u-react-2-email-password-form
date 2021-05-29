@@ -1,1 +1,7 @@
-# u-react-2-email-password-form
+## main topics
+
+* side effects API
+* useEffect
+* useReducer
+* useContext (AuthContextProvider pattern)
+* useRef (React.forwardRef, useImperativeHandle)
